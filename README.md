@@ -80,9 +80,8 @@ A documentação da API, utilizando Swagger, está disponível para facilitar o 
 - Swagger: Ferramenta para documentação de APIs, facilitando o entendimento e consumo dos endpoints.
 
 
-<div style="display: inline_block" align = "center"><br>
-  <img align="center" alt="Daniel-Csharp" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Daniel-Sql" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
-          
-          
-  </div>
+ <div style="display: inline_block" align = "center"><br>
+  <img align="center" alt="Daniel-Csharp" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">  
+  <img align="center" alt="Daniel-Sql" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" /> 
+  <img  src="https://raw.githubusercontent.com/swagger-api/swagger.io/wordpress/images/assets/SWU-logo-clr.png" width="100">      
+ </div>
